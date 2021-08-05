@@ -1,3 +1,25 @@
+/*
+Write a program to display the results of a contestant's performance on the score board. The results includes the scores given by the judges, the highest score, the lowest score, and the average score.
+
+The program template has been partially written. You need to complete the code for the functions according to the document blocks above the functions.
+
+In your main function, use an array for the scores from 7 judges . Then call the functions and display the contestant's outcome.
+
+For 7 judges, when running on this Zybooks page, the outcome should be exactly as follows.
+
+Judge #0 7.100000
+Judge #1 4.500000
+Judge #2 7.000000
+Judge #3 3.800000
+Judge #4 3.700000
+Judge #5 2.400000
+Judge #6 9.300000
+Highest score: 9.300000
+Lowest score: 2.400000
+Average score: 5.400000
+
+*/
+
 //
 //  scores.cpp
 //  labs22A
