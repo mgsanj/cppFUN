@@ -1,4 +1,8 @@
-// Program name: final
+// Use this document for problem instructions:
+// https://docs.google.com/document/d/1YNiDv7aO2Ws5fbA8au5IYMqd_ifTLgL7AXV69eVvMwY/edit?usp=sharing
+//
+//
+//Program name: final
 //
 // Description: Write a program to read test scores contained in a file.
 //              Process the scores so that it prints out the highest scores of the first 20 and the second 25. 
