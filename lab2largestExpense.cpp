@@ -1,3 +1,30 @@
+/*
+In this lab, you'll write code to read weekly expenses from cin and make a report of the expenses. 
+In addition to displaying total and average, also display the largest of the expenses programmatically. 
+That is, you will write the code that “finds” out the largest expense. Do not use arrays, functions or 
+anything we have not covered yet.
+
+For the following weekly expenses from cin,
+
+45.25 49.38 12.75 123.5 8.25 19.95 145.7
+
+Output should be exactly as follows:
+
+               My Weekly Expense Report
+               ------------------------
+               Sunday              45.25
+               Monday              49.38
+               Tuesday             12.75
+               Wednesday          123.50
+               Thursday             8.25
+               Friday              19.95
+               Saturday           145.70
+Total of expenses:                404.78
+Average of expenses:               57.83
+Largest of expenses:              145.70
+
+*/
+
 //
 //  expense2.cpp
 //  labs22A
