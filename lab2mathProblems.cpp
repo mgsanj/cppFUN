@@ -1,3 +1,38 @@
+/*
+The program reads pairs of whole numbers continuously from cin. For each pair, it checks to see both numbers are 
+within the range between 100 and 999 inclusive. If the numbers are valid, the program displays the addition of the 
+numbers in the format shown below. And the program continues to read next pair of whole numbers. If the numbers are 
+not valid, the program terminates.
+
+You need to use a loop statement to accomplish this.
+
+With the following input,
+
+101 101 202 203 198 891 345 426 0 0
+
+The output should be exactly as follows.
+
+  101
++ 101
+-----
+  202
+
+  202
++ 203
+-----
+  405
+
+  198
++ 891
+-----
+ 1089
+
+  345
++ 426
+-----
+  771
+*/
+
 //
 //  mathtutor.cpp
 //  labs22A
