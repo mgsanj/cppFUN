@@ -1,3 +1,26 @@
+/*
+Write a program that converts Celsius temperatures to Fahrenheit temperatures.
+
+Use the following formula for the conversion:
+
+fahrenheit = 9.0/5 * celsius + 32
+
+The program must be written in accordance to the following manner:
+
+   1. Define variables and initialize them. You will need four variables for storing the four Celsius degrees 
+   in whole numbers. And another four variables for storing the corresponding temperatures in Fahrenheit.
+
+   2. Get four Celcius degrees in whole numbers from cin. (Do not prompt, just get the input.)
+
+   3. Convert the Celsius degrees stored in the variables and store the results in the variables. You should 
+   define and use two named constants for the coefficients appearing in the conversion formula.
+
+   4. Provide a report according to the requirement shown below.
+
+Use manipulators to format the output.
+
+*/
+
 //  Sanjana Gadaginmath
 //  Created by Sanjana Gadaginmath on 07/03/2021.
 
